@@ -13,7 +13,7 @@ yarn add eslint -D
 ```
 
 ## 2. Config ESLint(My React Config)
-You can custom config rules or other configs by yourself through reading [ESLint]()
+You can custom config rules or other configs by yourself through reading [ESLint](https://eslint.org/)
 
 ```Typescript
 // .eslintrc.cjs
